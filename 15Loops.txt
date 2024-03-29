@@ -1,0 +1,89 @@
+// Loop 1
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 2
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 3
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 4
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 5
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 6
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 7
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 8
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 9 
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 10
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 11
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 12
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 13
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 14
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
+
+// Loop 15
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{i}");
+}
